@@ -1,2 +1,0 @@
-# timko.pro
-timko production
